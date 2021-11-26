@@ -2,7 +2,6 @@ module.exports = {
   title: "Hello Joel",
   description: "Just playing around",
   port: "8099",
-  base: "/joel-blog/",
   themeConfig: {
     nav: [
       { text: "主页", link: "/" },
