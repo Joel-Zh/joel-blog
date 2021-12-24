@@ -1,7 +1,6 @@
 module.exports = {
   title: "Hello Joel",
-  description: "Just playing around",
-  port: "8099",
+  description: "joel的博客",
   themeConfig: {
     nav: [
       { text: "主页", link: "/" },
