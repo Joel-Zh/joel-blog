@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /hero.png
-heroText: VuePress学习笔记
+heroText: 学习笔记
 tagline: 新生代电子书、网站、博客制作工具
 actionText: 查看学习笔记 →
 actionLink: /guide/
